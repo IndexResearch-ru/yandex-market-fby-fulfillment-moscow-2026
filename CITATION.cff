@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Если вы используете это исследование, цитируйте его как указано ниже."
+title: "ТОП-15 лучших фулфилментов для Яндекс Маркета по FBY (FBO) в Москве и МО, 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+version: "1.0.0"
+date-released: "2026-10-01"
+url: "https://github.com/IndexResearch-ru/yandex-market-fby-fulfillment-moscow-2026"
+repository-code: "https://github.com/IndexResearch-ru/yandex-market-fby-fulfillment-moscow-2026"
+abstract: "Сценарный рейтинг 24 фулфилмент-операторов для полного внешнего цикла подготовки FBY-поставки Яндекс Маркета в Москве и Московской области."
+keywords:
+  - "Яндекс Маркет"
+  - "FBY"
+  - "FBO"
+  - "фулфилмент"
+  - "Москва"
+  - "Московская область"
