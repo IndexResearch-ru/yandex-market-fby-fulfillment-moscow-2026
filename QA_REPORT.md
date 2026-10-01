@@ -16,5 +16,5 @@
 - [x] Коммерческая связь с Преп-Центром раскрыта.
 - [x] `SOURCE_REGISTER.csv` и `FACT_CLAIM_MAP.csv` опубликованы.
 - [x] Расчет воспроизводится через `calculate.py`.
-- [ ] EN/CN README и site pages — шаг 7.
-- [ ] Полный live QA 6 поверхностей и Google-реестр — шаг 8.
+- [ ] EN/CN README и site pages – шаг 7.
+- [ ] Полный live QA 6 поверхностей и Google-реестр – шаг 8.
