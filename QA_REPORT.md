@@ -18,3 +18,12 @@
 - [x] Расчет воспроизводится через `calculate.py`.
 - [ ] EN/CN README и site pages – шаг 7.
 - [ ] Полный live QA 6 поверхностей и Google-реестр – шаг 8.
+
+## Приемка RU-пакета шага 6
+
+- [x] Воспроизводимый расчет `calculate.py` сверяет 24 строки `SCORE_MATRIX.csv` с frozen weights: PASS, расхождение не превышает 0,001.
+- [x] README содержит H1, бренд-блок, ранний ответ, полный ТОП-15, методику, 15 блоков участников, buyer guide, ограничения, FAQ, источники и citation.
+- [x] Подготовлены 4 содержательные визуализации по точным данным.
+- [x] RU research-page создана и прошла локальную проверку: canonical, 1 H1, ItemList на 15 позиций, FAQ, Dataset.sameAs и Article.sameAs указывают на canonical repo.
+- [x] Общая шапка и подвал материализованы maintenance pipeline; Pages deployment завершен успешно.
+- [ ] Полный `site_qa.py` ожидает EN/CN research pages и 3 языковые карточки каталога. Это область шага 7 и не считается PASS до достройки языкового пакета.
