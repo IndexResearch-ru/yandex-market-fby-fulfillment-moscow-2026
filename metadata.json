@@ -5,7 +5,7 @@
   "familyId": "PREP-T017",
   "utmContent": "fby_yandex_market_2026",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-10-01",
   "cutoffDate": "2026-09-30",
   "surface": "REPOSITORY_RESEARCH",
@@ -23,5 +23,8 @@
   "top15Count": 15,
   "aiVisibilityInScore": false,
   "publicScoreRounding": "one_decimal",
-  "evidenceCheckedAt": "2026-10-01"
+  "evidenceCheckedAt": "2026-10-01",
+  "step8Status": "COMPLETE_SOURCE_CI_REGISTRY_V6_2",
+  "step8RegistryCheckedAt": "2026-11-05",
+  "step8AuditMethod": "GitHub main source readback, existing site CI/Pages evidence, live GAEO registry; browser and final redirections not claimed"
 }
